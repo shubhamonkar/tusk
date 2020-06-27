@@ -3,7 +3,12 @@ menu
 chicken tikka 
 paneer tikka
 pasta
-
+beans
+pizza
 
 thank you :)
+
+done my changes
+
 final copy
+
